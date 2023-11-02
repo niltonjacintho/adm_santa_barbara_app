@@ -1,0 +1,185 @@
+        {
+          "pastorais": [
+            {
+              "titulo": "EQUIPE DE EVENTOS",
+              "sigla": "EQUIPE DE EVENTOS",
+              "seq": "01",
+              "codigo": "adv",
+              "descricao":""
+            },
+            {
+              "titulo": "Apostoldado Da Oação",
+              "sigla": "A.O.",
+              "ordem": "01",
+              "codigo": "ao"
+            },
+            {
+              "titulo": "Batismo",
+              "sigla": "BAT",
+              "ordem": "01",
+              "codigo": "bat"
+            },
+            {
+              "titulo": "Catequese Com Adultos",
+              "sigla": "C.A.",
+              "ordem": "01",
+              "codigo": "ca"
+            },
+            {
+              "titulo": "Círculo Bíblico",
+              "sigla": "C.B.",
+              "ordem": "01",
+              "codigo": "cb"
+            },
+            {
+              "titulo": "Catequese Com Crianças",
+              "sigla": "C.C.",
+              "ordem": "01",
+              "codigo": "cc"
+            },
+            {
+              "titulo": "Catequese Especial  ",
+              "sigla": "C.E.",
+              "ordem": "01",
+              "codigo": "ce"
+            },
+            {
+              "titulo": "Centro De Estudos Social Santa Bárbara",
+              "sigla": "CESSB.",
+              "ordem": "01",
+              "codigo": "cessb"
+            },
+            {
+              "titulo": "Crisma Jovem",
+              "sigla": "C.J.",
+              "ordem": "01",
+              "codigo": "cj"
+            },
+            {
+              "titulo": "Coroinhas E Cerimoniários",
+              "sigla": "C.O.R.",
+              "ordem": "01",
+              "codigo": "cor"
+            },
+            {
+              "titulo": "Conselho Pastoral Paroquial",
+              "sigla": "C.P.P.",
+              "ordem": "01",
+              "codigo": "cpp"
+            },
+            {
+              "titulo": "Centro De Referência Da Assistência Social",
+              "sigla": "CRAS.",
+              "ordem": "01",
+              "codigo": "cras"
+            },
+            {
+              "titulo": "Capela Santo Antônio",
+              "sigla": "C.S.A.",
+              "ordem": "01",
+              "codigo": "csa"
+            },
+            {
+              "titulo": "Comissão Familia Salesiana",
+              "sigla": "C.F.S.",
+              "ordem": "01",
+              "codigo": "cfs"
+            },
+            {
+              "titulo": "Encontro Dos Delegados Local",
+              "sigla": "DEL.FS.",
+              "ordem": "01",
+              "codigo": "del"
+            },
+            {
+              "titulo": "Encontro De Adolescente Com Cristo",
+              "sigla": "E.A.C.",
+              "ordem": "01",
+              "codigo": "eac"
+            },
+            {
+              "titulo": "Encontro De Casais Com Cristo",
+              "sigla": "E.C.C.",
+              "ordem": "01",
+              "codigo": "ecc"
+            },
+            {
+              "titulo": "Encontro Preparatório Para Vida Matrimonial",
+              "sigla": "EPVM",
+              "ordem": "01",
+              "codigo": "epvm"
+            },
+            {
+              "titulo": "Escola De Evangelização Santo André ",
+              "sigla": "E.E.S.A.",
+              "ordem": "01",
+              "codigo": "eesa"
+            },
+            {
+              "titulo": "Encontro Nacional Familia Salesiana",
+              "sigla": "E.N.F.S.",
+              "ordem": "01",
+              "codigo": "enfs"
+            },
+            {
+              "titulo": "Ginástica Dos Idosos",
+              "sigla": "G.I.",
+              "ordem": "01",
+              "codigo": "gi"
+            },
+            {
+              "titulo": "Infância Missonária",
+              "sigla": "I.A.M.",
+              "ordem": "01",
+              "codigo": "iam"
+            },
+            {
+              "titulo": "Juventude Missionária Salesiana",
+              "sigla": "J.M.S.",
+              "ordem": "01",
+              "codigo": "jms"
+            },
+            {
+              "titulo": "Neuróticos Anônimo",
+              "sigla": "N.A.",
+              "ordem": "01",
+              "codigo": "na"
+            },
+            {
+              "titulo": "Oração Pela Família Salesiana",
+              "sigla": "O.F.S.",
+              "ordem": "01",
+              "codigo": "ofs"
+            },
+            {
+              "titulo": "Pastoral Da Criança",
+              "sigla": "P.C.",
+              "ordem": "01",
+              "codigo": "pc"
+            },
+            {
+              "titulo": "Perseverança",
+              "sigla": "PERSEV.",
+              "ordem": "01",
+              "codigo": "persev"
+            },
+            {
+              "titulo": "Salesianos Ccooperadores",
+              "sigla": "S.S.C.C.",
+              "ordem": "01",
+              "codigo": "sscc"
+            },
+            {
+              "titulo": "Reunião Da Comissão Para A Família Salesiana",
+              "sigla": "R.C.F.S.",
+              "ordem": "01",
+              "codigo": "rcfs"
+            },
+            {
+              "titulo": "Retiro Trimestral C/ A Familia Salesian",
+              "sigla": "R.T.F.S.",
+              "ordem": "01",
+              "codigo": "rtfs"
+            }
+          ]
+        }
