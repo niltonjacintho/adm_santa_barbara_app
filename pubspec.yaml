@@ -18,62 +18,51 @@ publish_to: "none" # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <4.0.0"
 
 dependencies:
-  dio: ^3.0.10
-  http: ^0.12.2
-  flutter_mobx: ^1.1.0+1
-  mobx: ^1.2.1+1
-  logger: ^0.9.4
+  dio: ^5.3.3
+  http: ^0.13.0
+  flutter_mobx: ^2.1.1
+  mobx: ^2.2.1
+  logger: ^2.0.2+1
   # cloud_firestore: ^0.13.0+1
-  firebase_storage: ^7.0.0
-  firebase_database: ^6.0.0
-  cloud_firestore: ^0.16.0
-  firebase_core: "0.7.0"
+  firebase_storage: ^11.4.1
+  firebase_database: ^10.3.3
+  cloud_firestore: ^4.12.2
+  firebase_core: 2.21.0
 
   #firebase_analytics: ^6.0.0
-  flutter_modular: ^2.0.1
-  fluttertoast: ^4.0.0
-  carousel_slider: ^2.1.0
+  flutter_modular: ^6.3.2
+  fluttertoast: ^8.2.2
+  carousel_slider: ^4.2.1
   #remover depois
-  data_tables: ^1.0.3
+  data_tables: ^1.4.0
 
-  smart_select: ^4.3.2
-  dropdown_search: ^0.4.8
+  smart_select: ^4.3.3
+  dropdown_search: ^5.0.6
 
   #
-  rflutter_alert: ^1.0.3
-  material_dropdown_formfield: ^0.1.7
-  uuid: ^2.0.4
+  rflutter_alert: ^2.0.7
+  # material_dropdown_formfield: ^0.1.7
+  uuid: ^3.0.7
   # dropdown_search: ^0.4.0
-  image_picker_web: ^1.0.8
-  file_picker: ^1.9.0+1
-  flutter_web_image_picker: ^0.0.2
-  chrome_dev_tools: ^1.2.0+2
-  geolocator: ^5.3.1
-  path_provider: ^1.6.11
-  # flutter_web_browser: ^0.11.0
-  # zefyr: ^0.11.0
-  # open_url: ^1.0.1
-  # flutter_web_view: ^0.0.6
-  # universal_io: ^1.0.1
-  # http: any
-  # flutter_inappwebview: ^3.2.0
-  # flutter_webview_plugin: ^0.3.11
+  image_picker_web: ^3.1.1
+  file_picker: ^6.0.0
+  # flutter_web_image_picker: ^0.0.2
+  # chrome_dev_tools: ^1.2.0+2
+  geolocator: ^10.1.0
+  path_provider: ^2.1.1
   flutter:
     sdk: flutter
 
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
-
 dev_dependencies:
-  mockito: ^4.1.1
-  mobx_codegen: ^1.0.3
-  build_runner: ^1.9.0
-  firebase: ^7.3.0
-  firebase_auth: ^0.20.0+1
-  firebase_auth_web: ^0.3.2+3
+  mockito: ^5.4.2
+  # mobx_codegen: ^1.0.3
+  build_runner: ^2.4.0
+  firebase_core: ^2.21.0
+  firebase_auth: ^4.12.1
+  firebase_auth_web: ^5.8.6
   flutter_test:
     sdk: flutter
   

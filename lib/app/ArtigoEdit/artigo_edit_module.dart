@@ -1,4 +1,3 @@
-import 'artigo_edit_controller.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
 import 'artigo_edit_page.dart';

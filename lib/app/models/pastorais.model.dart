@@ -56,10 +56,8 @@ class PastoraisModel {
     data['dtInclusao'] = this.dtInclusao;
     data['dtAlteracao'] = this.dtAlteracao;
     data['ativo'] = this.ativo;
-    if (this.comentarios != null) {
-      data['comentarios'] = this.comentarios.map((v) => v.toJson()).toList();
-    }
-    return data;
+    data['comentarios'] = this.comentarios.map((v) => v.toJson()).toList();
+      return data;
   }
 }
 

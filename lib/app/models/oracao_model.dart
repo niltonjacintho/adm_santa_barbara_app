@@ -15,10 +15,8 @@ class OracoesModel {
 
   Map<String, dynamic> toJson() {
     final Map<String, dynamic> data = new Map<String, dynamic>();
-    if (this.grupo != null) {
-      data['grupo'] = this.grupo.map((v) => v.toJson()).toList();
-    }
-    return data;
+    data['grupo'] = this.grupo.map((v) => v.toJson()).toList();
+      return data;
   }
 }
 
@@ -48,10 +46,8 @@ class Grupo {
     data['id'] = this.id;
     data['nome'] = this.nome;
     data['url'] = this.url;
-    if (this.oracoes != null) {
-      data['oracoes'] = this.oracoes.map((v) => v.toJson()).toList();
-    }
-    return data;
+    data['oracoes'] = this.oracoes.map((v) => v.toJson()).toList();
+      return data;
   }
 }
 

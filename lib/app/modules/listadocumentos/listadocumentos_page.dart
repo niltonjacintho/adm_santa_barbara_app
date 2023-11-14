@@ -88,7 +88,7 @@ class _ListadocumentosPageState
         // ),
         body: NativeDataTable.builder(
           rowsPerPage: _rowsPerPage,
-          itemCount: _items?.length ?? 0,
+          itemCount: _items.length ?? 0,
           firstRowIndex: _rowsOffset,
           handleNext: () async {
             setState(() {
@@ -168,7 +168,7 @@ class _ListadocumentosPageState
           mobileItemBuilder: (BuildContext context, int index) {
             final i = _desserts[index];
             return ListTile(
-              title: Text(i?.name),
+              title: Text(i.name),
             );
           },
           onSelectAll: (bool value) {
@@ -191,9 +191,9 @@ class _ListadocumentosPageState
               onPressed: () {
                 setState(() {
                   for (var item in _items
-                      ?.where((d) => d?.selected ?? false)
-                      ?.toSet()
-                      ?.toList()) {
+                      .where((d) => d.selected ?? false)
+                      .toSet()
+                      .toList()) {
                     _items.remove(item);
                   }
                 });

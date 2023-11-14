@@ -59,10 +59,8 @@ class Igreja {
     data['telefones'] = this.telefones;
     data['lat'] = this.lat;
     data['long'] = this.long;
-    if (this.capelas != null) {
-      data['capelas'] = this.capelas.map((v) => v.toJson()).toList();
-    }
-    return data;
+    data['capelas'] = this.capelas.map((v) => v.toJson()).toList();
+      return data;
   }
 }
 
